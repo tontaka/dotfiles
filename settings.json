@@ -1,0 +1,17 @@
+{
+    "vim.disableAnnoyingNeovimMessage": true,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 12,
+    "files.autoSave": "off",
+    "editor.tabSize": 4,
+    "editor.renderWhitespace": "none",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "files.associations": {},
+}
